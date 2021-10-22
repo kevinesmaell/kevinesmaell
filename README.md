@@ -1,5 +1,5 @@
 [![Header](https://github.com/kevinesmaell/kevinesmaell/blob/main/header.png "Header")](https://www.instagram.com/uvv/)
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> hi! :wave:</h1>
 <p align='center'>
 i'm kevin.
 </p>
