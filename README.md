@@ -1,4 +1,4 @@
-![Header](https://github.com/kevinesmaell/kevinesmaell/blob/main/20091130-Teton-Moonlight-bw.jpg "Header")
+![Header](https://github.com/kevinesmaell/kevinesmaell/blob/main/header.png "Header")
 ### Hi there 👋
 
  **kevinesmaell/kevinesmaell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
