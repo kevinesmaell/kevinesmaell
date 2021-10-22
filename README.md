@@ -4,11 +4,11 @@
 i'm kevin.
 </p>
 <p align='center'>
-- 🔭 i’m currently working on my first Github repository
-- 🌱 i’m currently learning everything
-- 👯 i’m looking to collaborate on anything
-- 🤔 i’m looking for advice/ideas on anything
-- 💬 ask me about anything
+- 🔭 i’m currently working on my first Github repository |
+- 🌱 i’m currently learning everything |
+- 👯 i’m looking to collaborate on anything |
+- 🤔 i’m looking for advice/ideas on anything |
+- 💬 ask me about anything |
 - 😄 pronouns: he/him 
 </p>
 </p>
