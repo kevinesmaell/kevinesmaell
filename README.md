@@ -8,7 +8,7 @@ i'm kevin.
 </p>
 </p>
 <p align='center'>
-For enquiries:uk: or inquiries:us:, DM me on <a href="https://isntagram.com/uvv">Instagram</a>.
+For inquiries, DM me on <a href="https://isntagram.com/uvv">Instagram</a>.
 
 <h1 align='center'><i>stay safe; stay well.</i></h1>
 
