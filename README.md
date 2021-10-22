@@ -1,4 +1,4 @@
-[![Header](https://github.com/kevinesmaell/kevinesmaell/blob/main/20091130-Teton-Moonlight-bw.jpg "Header")]
+![Header](https://github.com/kevinesmaell/kevinesmaell/blob/main/20091130-Teton-Moonlight-bw.jpg "Header")
 ### Hi there 👋
 
 <!--
