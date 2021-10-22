@@ -10,13 +10,11 @@ i'm kevin.
 - 🤔 i’m looking for advice/ideas on anything
 - 💬 ask me about anything
 - 😄 pronouns: he/him 
-For enquiries:uk: or inquiries:us: <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+</p>
+</p>
+<p align='center'>
+For enquiries:uk: or inquiries:us: (haha), DM me on <a href="https://isntagram.com/uvv">Instagram</a>.
 
-<h1 align='center'><i>Stay awesome!</i></h1>
-
-### Hi there 👋 My name is Kevin and I love everything!
-
-
-
+<h1 align='center'><i>stay safe; stay well.</i></h1>
 
 <!--
