@@ -1,8 +1,6 @@
 [![Header](https://github.com/kevinesmaell/kevinesmaell/blob/main/header.png "Header")](https://www.instagram.com/uvv/)
 ### Hi there 👋
 
- **kevinesmaell/kevinesmaell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on my first Github repository!
 - 🌱 I’m currently learning everything.
